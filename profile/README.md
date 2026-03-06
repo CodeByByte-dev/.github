@@ -114,8 +114,6 @@ Contribuições da comunidade são sempre bem-vindas.
 
 # 📬 Contato
 
-Email: contact@codebybyte.dev  
-
 GitHub: https://github.com/codebybyte
 
 ---
